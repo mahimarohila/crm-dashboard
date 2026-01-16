@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://crm-dashboard-9ns3.onrender.com/api"
 });
 
 export const fetchLeads = (params) =>
