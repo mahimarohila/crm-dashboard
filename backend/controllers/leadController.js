@@ -59,7 +59,7 @@ exports.getLeadById = async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 };
-// GET /api/leads/analytics
+
 exports.getLeadAnalytics = async (req, res) => {
   try {
     const totalLeads = await Lead.countDocuments();
