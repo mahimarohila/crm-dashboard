@@ -112,11 +112,9 @@ Password: admin123
 
 ## 🌐 Deployed Application URLs
 
-- **Backend (Render):**  
-  _To be added after deployment_
+- Backend (Render): https://crm-dashboard-9ns3.onrender.com
+- Frontend (Vercel): https://crm-dashboard-two-beige.vercel.app/
 
-- **Frontend (Vercel):**  
-  _To be added after deployment_
 
 ---
 
