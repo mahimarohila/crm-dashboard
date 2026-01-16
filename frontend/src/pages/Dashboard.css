@@ -1,0 +1,38 @@
+.dashboard {
+  position: relative; 
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f0f0f, #181818);
+  padding: 30px;
+  color: #eaeaea;
+}
+
+.dashboard h1 {
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+.analytics {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #1f1f1f;
+  border-radius: 10px;
+  padding: 20px;
+  min-width: 220px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+}
+
+.card h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #c7c7ff;
+}
+
+.card p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
